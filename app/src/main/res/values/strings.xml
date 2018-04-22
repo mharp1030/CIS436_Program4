@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Movie List</string>
+    <string name="title">Meet The Heroes</string>
+    <string name="button">Get Another</string>
+    <string name="need_more">Top Superhero Movies</string>
+    <string name="generate_multiple_identities">click for a list of great movies</string>
+    <string name="button2">Find More</string>
+    <string name="marvel">Marvel Movies</string>
+    <string name="extras">Other Great Movies</string>
+    <string name="all">All Movies</string>
+    <string name="search">Search</string>
+</resources>
